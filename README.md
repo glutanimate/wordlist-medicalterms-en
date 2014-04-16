@@ -31,6 +31,10 @@ Copy `wordlist.txt` to the root directory of your Android phone. Then install th
 
 **LibreOffice**
 
+*Easier method*
+
+If you are on Linux check out [hunspell-en-med-glut](https://github.com/Glutanimate/hunspell-en-med-glut) for a ready-made Hunspell dictionary that can be installed system-wide.
+
 *Manual installation*
 
 Follow the instructions provided in [this Q&A](http://ask.libreoffice.org/en/question/11170/create-basic-english-dictionary/?answer=11187#post-id-11187) to create a new custom dictionary. Make sure to name it in a recongizable fashion (e.g. medicalterms-en) and activate it in the menu. 
