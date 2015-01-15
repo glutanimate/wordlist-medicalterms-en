@@ -18,7 +18,7 @@
 This is a simple list of English medical terms formatted as a UTF8-encoded text file. It is based on two prominent medical dictionary projects:
 
  - [OpenMedSpel](http://www.e-medtools.com/openmedspel.html) by e-MedTools
- - [MTH-Med-Spel-Chek by Rajasekharan N. of MT-Herald](http://mtherald.com/free-medical-spell-checker-for-microsoft-word-custom-dictionary/)
+ - [Raj&Co-Med-Spel-Chek by Rajasekharan N. of Raj&Co](http://rajn.co/free-medical-spell-checker-for-microsoft-word-custom-dictionary/)
  
 The two sources have been merged, deduplicated, corrected and formatted as a text file that should be compatible with Android dictionary managers, LibreOffice, and Word.
 
