@@ -46,6 +46,6 @@ Follow the instructions provided in [this Q&A](http://ask.libreoffice.org/en/que
 Rename `wordlist.txt` to `medicalterms-en.dic` and follow the instructions provided [here](http://support.microsoft.com/kb/322198).
 
 
-###Waranty
+###Warranty
 
 This software comes with no warranty of any kind. Some misspelled words might be included. Please make sure to submit a bug report if you find any mistakes.
