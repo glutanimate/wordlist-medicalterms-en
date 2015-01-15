@@ -8,8 +8,8 @@
     Author:             Glutanimate (https://github.com/Glutanimate)
     Sources:            - OpenMedSpel by e-MedTools 
                           <http://www.e-medtools.com/openmedspel.html>
-                        - MTH-Med-Spel-Chek by Rajasekharan N. of MT-Herald
-                          <http://mtherald.com/free-medical-spell-checker-for-microsoft-word-custom-dictionary/>
+                        - Raj&Co-Med-Spel-Chek by Rajasekharan N. of Raj&Co
+                          <http://rajn.co/free-medical-spell-checker-for-microsoft-word-custom-dictionary/>
     License:            GNU GPL v3 (see LICENSE.txt for more information)
 
 
