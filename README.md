@@ -24,7 +24,7 @@ The two sources have been merged, deduplicated, corrected and formatted as a tex
                           <http://mtherald.com/free-medical-spell-checker-for-microsoft-word-custom-dictionary/>
     License:            GNU GPL v3 (see LICENSEs for more information)
 
-###Usage
+### Usage
 
 **Android**
 
@@ -47,6 +47,6 @@ Follow the instructions provided in [this Q&A](http://ask.libreoffice.org/en/que
 Rename `wordlist.txt` to `medicalterms-en.dic` and follow the instructions provided [here](http://support.microsoft.com/kb/322198).
 
 
-###Warranty
+### Warranty
 
 This software comes with no warranty of any kind. Some misspelled words might be included. Please make sure to submit a bug report if you find any mistakes.
