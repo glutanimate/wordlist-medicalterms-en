@@ -12908,6 +12908,7 @@ bicarinate
 bicaudal
 bicaudate
 bicellular
+bicep
 bicephalus
 biceps
 bicha
@@ -92426,6 +92427,7 @@ tricalcic
 Tricalcium
 tricarboxylic
 tricellular
+tricep
 tricephalus
 triceps
 triceptor
